@@ -18,7 +18,7 @@
 提供的API來測試  
 
 
-	```java
+	``` 
 		
 	package com.wade.test;
 	import java.io.*;
