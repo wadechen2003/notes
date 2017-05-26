@@ -1,4 +1,4 @@
-##git無法把本地分支推上repository##
+## git無法把本地分支推上repository##
 
 剛剛遇到一種情況, 把遠端的 repo clone 回本地後 checkout 新的 branch  
 
