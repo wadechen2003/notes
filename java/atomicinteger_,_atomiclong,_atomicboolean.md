@@ -1,8 +1,8 @@
-##AtomicInteger , AtomicLong, AtomicBoolean
+## AtomicInteger , AtomicLong, AtomicBoolean
 
 JAVA中此三種類型的物件, 可以分別針對Integer, Long, Boolean做原子化的操作  
 
-###why should we need atomic operation?  
+### why should we need atomic operation?  
 
 1.參考於  
 [Atomic Operations and multithreading](http://stackoverflow.com/a/16729461)  
