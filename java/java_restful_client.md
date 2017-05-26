@@ -16,10 +16,7 @@
 下面隨手放一個example, 用 
 [JSONPlaceholder](http://jsonplaceholder.typicode.com/)
 提供的API來測試  
-
-
-	``` 
-		
+	
 	package com.wade.test;
 	import java.io.*;
 	import org.apache.http.HttpEntity;
@@ -70,10 +67,7 @@
   		}
 	}
 
-	
-	
 
-	```
 
 
 
