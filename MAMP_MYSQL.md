@@ -1,5 +1,4 @@
-## 環境 
-#### MAC OS X El Captain 10.11.4
+#### 環境  MAC OS X El Captain 10.11.4
 #### MAMP 3.5  
   
 至路徑  `/Applications/MAMP/conf` 新增 `my.cnf`  
