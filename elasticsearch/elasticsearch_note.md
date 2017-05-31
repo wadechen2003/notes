@@ -15,7 +15,7 @@ GET /n_cms_core/pns_log/_search
 ```
 另外, 還有幾個參數可以替query增加條件, 
 
-####"operator":"and/or"", 如果 query 中超過一個字詞, and:兩者同時出現, or:一者出現即可.
+#### "operator":"and/or"", 如果 query 中超過一個字詞, and:兩者同時出現, or:一者出現即可.
 
 ```
 GET /n_cms_core/pns_log/_search
@@ -40,7 +40,7 @@ GET /n_cms_core/pns_log/_search
 
 
 
-####"type":"phrase" 表示要搜尋的是一個片語. 所以會 Wi-Fi noise 整句下去搜.
+#### "type":"phrase" 表示要搜尋的是一個片語. 所以會 Wi-Fi noise 整句下去搜.
 
 ```
 GET /n_cms_core/pns_log/_search
@@ -58,7 +58,7 @@ GET /n_cms_core/pns_log/_search
 
 
 
-####march_phrase_prefix 有點類似 SQL中 LIKE xxx% 的用法, 只利用 prefix 去搜尋.
+#### march_phrase_prefix 有點類似 SQL中 LIKE xxx% 的用法, 只利用 prefix 去搜尋.
 
 ```
 {
